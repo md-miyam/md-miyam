@@ -70,5 +70,5 @@ I am a <b>Jr. Flutter Developer</b> with 10–12 months of team experience, curr
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdMiyamHosen&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-miyam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
